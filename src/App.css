@@ -1,5 +1,3 @@
-
-
 * {
   box-sizing: border-box;
 }
@@ -87,7 +85,7 @@ h3 {
   background: none;
   cursor: pointer;
   font-size: 40px;
-  color: inherit;
+  color: white;
 }
 
 .close:hover {
